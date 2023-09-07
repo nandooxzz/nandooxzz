@@ -1,5 +1,4 @@
-### hey 
-love programming some games & useful stuff in python, react & javascript 💫
+### love programming some games & useful stuff in python, react & javascript 💫
 
 -----------------------------
 
