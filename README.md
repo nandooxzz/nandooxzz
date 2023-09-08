@@ -1,4 +1,4 @@
-### love programming some games & useful stuff in python, react & javascript 💫
+### love programming in python, react & javascript 🇧🇷
 
 -----------------------------
 
