@@ -17,7 +17,6 @@
 ---
 
 ### 🛠 Tech Stack
-**Languages**
 - TypeScript (Next.js • Astro • React)
 - Java (studying)
 - Python
